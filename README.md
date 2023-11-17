@@ -1,1 +1,1 @@
-# bentuk-gabungan-dan-terikat
+# bentuk-gabungan
